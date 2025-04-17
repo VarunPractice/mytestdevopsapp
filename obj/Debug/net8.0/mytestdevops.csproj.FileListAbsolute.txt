@@ -1,0 +1,14 @@
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\bin\Debug\net8.0\mytestdevops.exe
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\bin\Debug\net8.0\mytestdevops.deps.json
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\bin\Debug\net8.0\mytestdevops.runtimeconfig.json
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\bin\Debug\net8.0\mytestdevops.dll
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\bin\Debug\net8.0\mytestdevops.pdb
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\obj\Debug\net8.0\mytestdevops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\obj\Debug\net8.0\mytestdevops.AssemblyInfoInputs.cache
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\obj\Debug\net8.0\mytestdevops.AssemblyInfo.cs
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\obj\Debug\net8.0\mytestdevops.csproj.CoreCompileInputs.cache
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\obj\Debug\net8.0\mytestdevops.dll
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\obj\Debug\net8.0\refint\mytestdevops.dll
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\obj\Debug\net8.0\mytestdevops.pdb
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\obj\Debug\net8.0\mytestdevops.genruntimeconfig.cache
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\obj\Debug\net8.0\ref\mytestdevops.dll
