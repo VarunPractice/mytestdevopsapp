@@ -12,3 +12,4 @@ C:\Varun\GitHubCode\mytestdevops\mytestdevops\obj\Debug\net8.0\refint\mytestdevo
 C:\Varun\GitHubCode\mytestdevops\mytestdevops\obj\Debug\net8.0\mytestdevops.pdb
 C:\Varun\GitHubCode\mytestdevops\mytestdevops\obj\Debug\net8.0\mytestdevops.genruntimeconfig.cache
 C:\Varun\GitHubCode\mytestdevops\mytestdevops\obj\Debug\net8.0\ref\mytestdevops.dll
+C:\Varun\GitHubCode\mytestdevops\mytestdevops\obj\Debug\net8.0\mytestdevops.sourcelink.json
